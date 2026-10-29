@@ -1,0 +1,10 @@
+{
+  "name": "gita-telugu",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Offline-first interactive Telugu Bhagavad Gita website",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs"
+  }
+}

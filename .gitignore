@@ -1,0 +1,11 @@
+# Python / build scratch
+__pycache__/
+*.py[cod]
+tts-progress.jsonl
+tts-build.log
+*.log
+.DS_Store
+
+# Never commit local credentials
+.env
+*.token
